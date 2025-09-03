@@ -1,7 +1,11 @@
-#include <iostream>
+#include <bits/stdc++.h>
 using namespace std;
 
 int main() {
-    cout << "Hello World\n";
+
+int a;
+cin>>a;
+cout<<a+8;
+
     return 0;
 }
